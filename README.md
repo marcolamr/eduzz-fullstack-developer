@@ -82,8 +82,8 @@
 
 #### Introdução a criação de websites com HTML5 e CSS3 :page_facing_up: - [Lucas Vilaboim](https://github.com/vilaboim)
 
-- [ ] Introdução ao curso de HTML
-  - [ ] Estrutura básica
+- [x] Introdução ao curso de HTML
+  - [x] Estrutura básica
 - [ ] Entendendo o que é semântica
   - [ ] Semântica - Parte 1
   - [ ] Semântica - Parte 2
