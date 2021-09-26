@@ -99,9 +99,9 @@
   - [x] Exercício prático
 - [x] Certifique seu conhecimento
 
-- [ ] Introdução e conceitos básicos do CSS3
-  - [ ] Introdução ao CSS3
-  - [ ] Conceitos básicos
+- [x] Introdução e conceitos básicos do CSS3
+  - [x] Introdução ao CSS3
+  - [x] Conceitos básicos
 - [ ] Estilizando elementos, textos e listas
   - [ ] Estilizando elementos
   - [ ] Estilizando textos
