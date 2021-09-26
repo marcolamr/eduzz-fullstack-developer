@@ -87,10 +87,10 @@
 - [x] Entendendo o que é semântica
   - [x] Semântica - Parte 1
   - [x] Semântica - Parte 2
-- [ ] Como usar textos e links em HTML
-  - [ ] Tags para textos
-  - [ ] Tags para links
-  - [ ] Exercício prático
+- [x] Como usar textos e links em HTML
+  - [x] Tags para textos
+  - [x] Tags para links
+  - [x] Exercício prático
 - [ ] Como inserir imagens em seu site
   - [ ] Tag img
   - [ ] Exercício prático
