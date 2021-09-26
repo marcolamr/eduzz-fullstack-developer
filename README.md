@@ -94,12 +94,10 @@
 - [x] Como inserir imagens em seu site
   - [x] Tag img
   - [x] Exercício prático
-- [ ] Como organizar listas em HTML
-  - [ ] Tags li, ul e ol
-  - [ ] Exercício prático
-- [ ] Certifique seu conhecimento
-
-
+- [x] Como organizar listas em HTML
+  - [x] Tags li, ul e ol
+  - [x] Exercício prático
+- [x] Certifique seu conhecimento
 
 - [ ] Introdução e conceitos básicos do CSS3
   - [ ] Introdução ao CSS3
