@@ -91,9 +91,9 @@
   - [x] Tags para textos
   - [x] Tags para links
   - [x] Exercício prático
-- [ ] Como inserir imagens em seu site
-  - [ ] Tag img
-  - [ ] Exercício prático
+- [x] Como inserir imagens em seu site
+  - [x] Tag img
+  - [x] Exercício prático
 - [ ] Como organizar listas em HTML
   - [ ] Tags li, ul e ol
   - [ ] Exercício prático
