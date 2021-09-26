@@ -49,3 +49,27 @@
 
 
 
+------
+
+
+
+##### Introdução ao Git e ao GitHub :link:
+
+- [x] Introdução ao Git
+  - [x] Entendendo o que é Git e sua importância
+- [x] Navegação via command line interface e instalação
+  - [x] Comandos básicos para umb om desempenho no terminal
+  - [x] Realizando a instalação do GIT
+- [x] Entendendo como o Git funciona por baixo dos panos
+  - [x] Tópicos fundamentais para entender o funcionamento do Git
+  - [x] Objetos internos do Git
+  - [x] Chave SSH e Token
+- [x] Primeiros comandos com Git
+  - [x] Iniciando o Git e criando um commit
+- [x] Ciclo de vida dos arquivos no Git
+  - [x] Passo a passo no ciclo de vida
+- [x] Introdução ao GitHub
+  - [x] Trabalhando com GitHub
+- [x] Resolvendo conflitos
+  - [x] Como os conflitos acontecem no GitHub e como resolvê-los
+- [x] Certifique seu conhecimento (https://certificates.digitalinnovation.one/84831383)
