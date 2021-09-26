@@ -84,9 +84,9 @@
 
 - [x] Introdução ao curso de HTML
   - [x] Estrutura básica
-- [ ] Entendendo o que é semântica
-  - [ ] Semântica - Parte 1
-  - [ ] Semântica - Parte 2
+- [x] Entendendo o que é semântica
+  - [x] Semântica - Parte 1
+  - [x] Semântica - Parte 2
 - [ ] Como usar textos e links em HTML
   - [ ] Tags para textos
   - [ ] Tags para links
