@@ -8,7 +8,7 @@
 
 
 
-##### Projetos ágeis com SCRUM :book:
+##### Projetos ágeis com SCRUM :book: - [Thiago Sano](https://www.linkedin.com/in/thiagosano)
 
 - [x] Introdução ao SCRUM
   - [x] Introdução a Gestão de Projetos e ao SCRUM
@@ -31,7 +31,7 @@
 
 
 
-##### Lógica de Programação Essencial :coffee:
+##### Lógica de Programação Essencial :coffee: - [Denilson Bonatti](https://www.linkedin.com/in/denilson-bonatti-54a14529)
 
 - [x] Introdução à lógica e à programação
   - [x] Entendendo o que é lógica
@@ -53,7 +53,7 @@
 
 
 
-##### Introdução ao Git e ao GitHub :link:
+##### Introdução ao Git e ao GitHub :link: - [Otávio Reis](https://github.com/Perkles)
 
 - [x] Introdução ao Git
   - [x] Entendendo o que é Git e sua importância
@@ -73,3 +73,41 @@
 - [x] Resolvendo conflitos
   - [x] Como os conflitos acontecem no GitHub e como resolvê-los
 - [x] Certifique seu conhecimento (https://certificates.digitalinnovation.one/84831383)
+
+
+
+------
+
+
+
+##### Introdução a criação de websites com HTML5 e CSS3 :page_facing_up: - [Lucas Vilaboim](https://github.com/vilaboim)
+
+- [ ] Introdução ao curso de HTML
+  - [ ] Estrutura básica
+- [ ] Entendendo o que é semântica
+  - [ ] Semântica - Parte 1
+  - [ ] Semântica - Parte 2
+- [ ] Como usar textos e links em HTML
+  - [ ] Tags para textos
+  - [ ] Tags para links
+  - [ ] Exercício prático
+- [ ] Como inserir imagens em seu site
+  - [ ] Tag img
+  - [ ] Exercício prático
+- [ ] Como organizar listas em HTML
+  - [ ] Tags li, ul e ol
+  - [ ] Exercício prático
+- [ ] Certifique seu conhecimento
+
+
+
+- [ ] Introdução e conceitos básicos do CSS3
+  - [ ] Introdução ao CSS3
+  - [ ] Conceitos básicos
+- [ ] Estilizando elementos, textos e listas
+  - [ ] Estilizando elementos
+  - [ ] Estilizando textos
+  - [ ] Estilizando listas
+- [ ] Dimensão e alinhamento
+  - [ ] Propriedades de dimensões e alinhamento
+- [ ] Certifique seu conhecimento
