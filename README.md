@@ -109,3 +109,26 @@
 - [x] Dimensão e alinhamento
   - [x] Propriedades de dimensões e alinhamento
 - [x] Certifique seu conhecimento (https://certificates.digitalinnovation.one/6D21D801)
+
+
+
+------
+
+
+
+#### JavaScript ES6 essencial :baby_bottle: - [Guilherme Cabrini](https://github.com/gcabrini)
+
+- [x] Introdução ao ES6
+  - [x] História e conceitos
+  - [x] Currying, Hoisting, Imutabilidade, Tipos e Variáveis
+- [x] Tipos, variáveis, operadores, condicionais e repetição em JavaScript ES6
+  - [x] Tipos e variáveis
+  - [x] Functions e operadores
+  - [x] Spread, estruturas condicionais e repetição
+- [x] Orientação a objetos e Design Patterns com a linguagem ES6
+  - [x] Introdução a orientação a objetos
+  - [x] Introdução a Design Patterns
+- [x] Manipulação e iteração de arrays
+  - [x] Criando e manipulando arrays
+  - [x] Iterar, buscar e transformar elementos
+  - [x] Certifique seu conhecimento (https://certificates.digitalinnovation.one/B7B65351)
