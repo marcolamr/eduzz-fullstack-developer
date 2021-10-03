@@ -103,8 +103,8 @@
   - [x] Introdução ao CSS3
   - [x] Conceitos básicos
 - [ ] Estilizando elementos, textos e listas
-  - [ ] Estilizando elementos
-  - [ ] Estilizando textos
+  - [x] Estilizando elementos
+  - [x] Estilizando textos
   - [ ] Estilizando listas
 - [ ] Dimensão e alinhamento
   - [ ] Propriedades de dimensões e alinhamento
