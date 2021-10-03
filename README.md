@@ -108,4 +108,4 @@
   - [x] Estilizando listas
 - [x] Dimensão e alinhamento
   - [x] Propriedades de dimensões e alinhamento
-- [ ] Certifique seu conhecimento
+- [x] Certifique seu conhecimento (https://certificates.digitalinnovation.one/6D21D801)
