@@ -15,6 +15,8 @@
 body {
   background: #eeeeee;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  max-width: 900px;
+  margin: 0 auto;
 }
 
 .photo {
@@ -53,10 +55,12 @@ a {
 .post_content {
   margin-bottom: 15px;
   text-transform: capitalize;
+  text-align: justify;
 }
 
 .post_image {
   margin-bottom: 15px;
+  width: 100%;
 }
 
 .contacts_list {

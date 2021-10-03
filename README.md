@@ -106,6 +106,6 @@
   - [x] Estilizando elementos
   - [x] Estilizando textos
   - [x] Estilizando listas
-- [ ] Dimensão e alinhamento
-  - [ ] Propriedades de dimensões e alinhamento
+- [x] Dimensão e alinhamento
+  - [x] Propriedades de dimensões e alinhamento
 - [ ] Certifique seu conhecimento
